@@ -1,8 +1,6 @@
-# ASSESSING MULTIFACETED RETRIEVAL STRATEGIES IN THE MEDICAL DOMAINS
-
 ## Introduction
 
-This repository contains the research work for the thesis "Evaluating Multifaceted Retrieval Strategies in Open-Domain Question Answering". The study explores various retrieval techniques in the context of Retrieval-Augmented Generation (RAG) systems, focusing on open-domain datasets. Our work compares different retrieval strategies and evaluates their performance using traditional metrics.
+This repository contains the research work for the thesis "ASSESSING MULTIFACETED RETRIEVAL STRATEGIES IN THE MEDICAL DOMAINS". The study explores various retrieval techniques in the context of Retrieval-Augmented Generation (RAG) systems, focusing on open-domain datasets. Our work compares different retrieval strategies and evaluates their performance using traditional metrics.
 
 ## Experiments
 
